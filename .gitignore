@@ -1,0 +1,34 @@
+# Flutter/Dart
+*.dart_tool/
+.packages
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Runner.xcworkspace/
+bin/cache/
+!**/lib/**
+!**/assets/**
+!**/pubspec.yaml
+!**/pubspec.lock
+
+# Android
+*.iml
+.gradle/
+/local.properties
+/.idea/
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/app/.flutter-plugins
+android/app/.flutter-plugins-dependencies
+
+# Xcode
+*.xcuserstate
+*.xcworkspace/
+*.xcodeproj/
+*.xcuserdata/
+
+# Visual Studio Code
+.vscode/
